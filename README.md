@@ -69,12 +69,21 @@
 </div>  
 
 <div>
-<h3>🚩 Full Stack Development Skills:</h3> 
-✔ Front-end technologies such as HTML, CSS, JavaScript, and modern JavaScript frameworks like React, Angular, and Vue.js.<br>
-✔ Experienced in back-end development using Nest.js, Express.js, Django, and Flask.<br>
-✔ Database including PostgreSQL, MySql, MongoDB, SQLite and RESTful APIs, microservices architecture, and cloud platforms like AWS and Azure.<br>
+<h3>🚩 Full stack developer</h3> 
+✔ Prehead:
+   As a highly skilled full stack developer, I have rich experience in software development for over 7 years. <br>
+   With my powerful technical skills and rich experience, you will be able to find my ability with my below descriptions, <br>
+   However, for someone who wanna find a specialist in some special area, I'd like to mention my specical ability: <br>
+    * Google apps script <br>
+    * Looker Studio <br>
+    * Rust <br>
+✔ Front-end :
+    * HTML, CSS/Sass/Tailwind Css, JavaScript <br>
+    * React/Next, Vue/Nuxt Angular<br>
+✔ Back-end : PHP/Laravel, Nest.js/Express.js, Python/Django/Flask, Ruby on Rails<br>
+✔ Database : PostgreSQL, MySql, MongoDB, SQLite and RESTful APIs, microservices architecture, and cloud platforms like AWS and Azure.<br>
 <h3>🚩 Artificial Intelligence (AI) Specialization:</h3>
-✔ Machine learnign with TensorFlow, PyTorch, and scikit-learn.<br>
+✔ Keras, TensorFlow, PyTorch, and scikit-learn.<br>
 ✔ NLP, computer vision, and predictive analytics, with a focus on solving real-world problems and enhancing user experiences.<br>
 ✔ Proficient in data preprocessing, feature engineering, model training, and evaluation to deliver accurate and scalable AI solutions.<br>
 <h3>🚩 Blockchain Expertise:</h3>
